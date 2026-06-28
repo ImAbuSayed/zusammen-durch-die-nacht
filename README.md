@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/zusammen-durch-die-nacht/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Zusammen durch die Nacht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zusammen-durch-die-nacht/) |
+| **Get License** | [Music Rights & Licensing for Zusammen durch die Nacht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zusammen-durch-die-nacht/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die Skyline leuchtet lila, doch ich seh' nur dein Gesicht
+> Ich rase durch die Straßen, bis der Morgen wieder bricht
+> Steig ein in meinen Wagen, lass uns flieh'n in die Nacht
+> Du hast mich mit dei'm Lächeln um den Verstand gebracht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
