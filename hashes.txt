@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Zusammen durch die Nacht
+
+This log tracks the cryptographic history and versioning for the song **Zusammen durch die Nacht** (zusammen-durch-die-nacht).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T13:47:07.811601 | `v1` | `d25ce63b96f3ca4c0c953f4dc53a5b710404228b1c82df769e153e923976ae3e` | `084db565f94d8d735358f73052ce6c7cfc4851ca8471da9b9884c830f12b035f` | `2026-06-28_zusammen-durch-die-nacht-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
